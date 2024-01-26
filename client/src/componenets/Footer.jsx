@@ -68,11 +68,17 @@ export default function FooterComp() {
             <Footer.Icon
               href="https://twitter.com/Akinsanya__Joel"
               icon={BsTwitterX}
+              target="_blank"
             />
-            <Footer.Icon href="https://github.com/kiojoel" icon={BsGithub} />
+            <Footer.Icon
+              href="https://github.com/kiojoel"
+              icon={BsGithub}
+              target="_blank"
+            />
             <Footer.Icon
               href="https://www.linkedin.com/in/akinsanya-joel-1a5b51168/"
               icon={BsLinkedin}
+              target="_blank"
             />
           </div>
         </div>
